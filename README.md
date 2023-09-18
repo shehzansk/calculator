@@ -6,6 +6,7 @@
 - Subtraction (-)
 - Multiplication (*)
 - Division (/)
+- Remainder (%)
 - Clear button (AC)
 - Backspace button (<-)
 - Responsive design
