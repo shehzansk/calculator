@@ -71,3 +71,22 @@ body
 {
     background: rgba(255, 255, 255, 0.1);
   }
+
+@media (min-height: 750px){
+
+  .calculator 
+{
+    height: 65vh;
+    width: 90vw;
+}
+.display-box 
+  {
+    height: 80px;
+    font-size: 65px;
+  }
+.calculator input[type="button"]
+{
+    margin-left: 25px;
+    font-size: 50px;
+  }
+}
