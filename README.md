@@ -12,7 +12,7 @@
 
 ## Screenshot
 
-(screenshot.png)
+![Calculator Screenshot](screenshot.png)
 
 ## Acknowledgments
 
@@ -20,11 +20,10 @@ This calculator project was created as a learning exercise and is inspired by va
 
 ## Author
 
-[Shehzan Ahmed Sheikh]
+Shehzan Ahmed Sheikh
 
 ## Contact
 
-If you have any questions or suggestions, you can reach out to me at [sshahzan0@gmail.com].
+If you have any questions or suggestions, you can reach out to me at sshahzan0@gmail.com.
 
 Enjoy using this calculator and happy coding!
-You can copy and paste this content into a README.md file in your GitHub repository and customize it as needed.
